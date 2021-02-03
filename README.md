@@ -1,1 +1,2 @@
-# sejong-java-study
+# 명품 자바 프로그래밍 수업 신동일 교수님 :running:
+
